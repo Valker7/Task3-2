@@ -1,12 +1,22 @@
 ﻿using System;
-
-namespace Task3_2
+namespace Task32
 {
     class Program
     {
-        static void Main(string[] args)
+        Parent[] array = new Parent[3];
+
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
+
+
+
+
+
+
+
+
+
 }
